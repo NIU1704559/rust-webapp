@@ -10,7 +10,16 @@
 
 ### Código externo
 > Chrono - Para manejar fechas.
+
 > Rocket - Para manejar HTTP.
-> Uuid - Para manejar UUIDs.
-> Tera - Para manejar templates.
+
+> Rusqlite - Para manejar SQLite.
+
 > Sha2 - Para manejar hashes.
+
+> Uuid - Para manejar UUIDs.
+
+> Tera - Para manejar templates.
+
+
+
